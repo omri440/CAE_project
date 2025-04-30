@@ -71,7 +71,7 @@ Each CSV file is converted into a windowed structure, then serialized into Tenso
 
 ## 🧪 How to Use
 
-1. Place all your CSV datasets in the current working directory
+1. Place all your CSV datasets in the current working directory ( csv files from car hacking data set) 
 2. Run the notebook or convert to `.py`
 3. Check for generated `*.tfrecord` files
 4. Results will be printed in the final cell
